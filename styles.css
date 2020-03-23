@@ -1,0 +1,19 @@
+.bebas{
+    font-family: 'Bebas Neue', cursive;
+}
+.courier{
+    font-family: 'Courier Prime', monospace;
+}
+h3{
+    text-decoration: underline overline;
+}
+#resultat{
+    margin-top: 10px;
+    padding: 4px;
+}
+#enunciat{
+    font-weight: bold;
+}
+.btn:hover{
+    color: greenyellow;
+}
